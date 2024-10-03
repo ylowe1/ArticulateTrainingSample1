@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="ArticulateTraining" />
+              <option name="title_text" value="ArticulateTrainingSample" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1572,6 +1572,8 @@
           <links>
             <slidelink slideid="_player.6jb8gKSPT01.5Xiu9CeVVpG" displaytext="Global Search " expand="false" type="slide" />
             <slidelink slideid="_player.6jb8gKSPT01.690i7VCl7S7" displaytext="Homeowner Name" expand="false" type="slide" />
+            <slidelink slideid="_player.6jb8gKSPT01.5pmQlwvZ47j" displaytext="Add First Name" expand="false" type="slide" />
+            <slidelink slideid="_player.6jb8gKSPT01.5VAhT1HMkVq" displaytext="Title Slide" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
